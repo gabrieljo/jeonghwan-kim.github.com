@@ -6,6 +6,7 @@ tags:
 summary: Sequelize Transaction 사용할때 주의할 점
 ---
 
+
 노드에서 데이터베이스 ORM으로 [Sequelize](http://docs.sequelizejs.com/en/latest/)를 사용한다.
 성능상의 단점이 있지만 개발 속도와 가독성을 생각해 대부분 프로젝트에서 사용하는 편이다.
 사실 그동안 트랜젝션 처리해야할 부분을 많이 놓쳐서 이번엔 제대로 트랜젝션을 걸어서 사용해 보기로 했다.
